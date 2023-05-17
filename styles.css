@@ -1,0 +1,18 @@
+.basic-info {
+    margin: 50px;
+    padding: 0;
+}
+
+.basic {
+    margin: 2px;
+}
+
+.other-info {
+    margin: 50px;
+    padding: 0;
+}
+
+.photo {
+    float: right;
+    background-color: aqua;
+}
